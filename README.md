@@ -41,4 +41,8 @@ Key files:
 
 * HomeScreen: This screen contains a stack navigator with 2 arbitrary screens
 
+## Final result: 
+https://user-images.githubusercontent.com/18222983/209757550-fba43d9c-c4ad-4b6c-a7ff-170cc0c3ae38.MP4
+
+
 
